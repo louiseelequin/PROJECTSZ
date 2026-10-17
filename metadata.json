@@ -1,0 +1,6 @@
+{
+  "name": "GitLaunch - GitHub Project Prep & Uploader",
+  "description": "Complete interactive toolkit to prepare, generate professional README, .gitignore, licenses, and push any project to GitHub effortlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
